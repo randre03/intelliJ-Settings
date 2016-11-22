@@ -14,7 +14,7 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479787164489">
+      <file name="/Dummy.txt" timestamp="1479827313438">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/server/main,js.js" timestamp="1479781194387">
@@ -53,11 +53,12 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/components/EmployeeList.js" timestamp="1479790624816">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="19" column="39" />
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/components/EmployeeList.js" timestamp="1479827981391">
+        <mark key="'" line="19" column="63" />
+        <mark key="[" line="19" column="49" />
+        <mark key="]" line="19" column="63" />
+        <mark key="." line="19" column="63" />
+        <mark key="^" line="19" column="63" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/name.html" timestamp="1479775688170">
         <mark key="'" line="2" column="16" />
@@ -131,40 +132,42 @@
       <jump line="4" column="16" filename="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/name.html" />
       <jump line="20" column="3" filename="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/components/employee_list.js" />
       <jump line="29" column="36" filename="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/components/employee_list.js" />
+      <jump line="19" column="63" filename="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/components/EmployeeList.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3NOYW1lPSJsaXN0LWdyb3VwLWl0ZW0iPjwvbGk+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGxNb3VudCgpIHsKICAgICAgICB0aGlzLnBhZ2UgPSAyOwogICAgfQoK</text>
+      <register name="1" type="4">
+        <text>PER_PAGE);
+    //</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIE5lZWQgc3RhdGUgc28gd2UgY2FuIGtlZXAgdHJhY2sgb2YgdGhlICMgb2YgZW1wbG95ZWUgcmVjb3JkcyBzZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gb25DbGljaz17KCkgPT4gTWV0ZW9yLnN1YnNjcmliZSgnZW1wbG95ZWVzJywgNDApfSBjbGFzc05hbWU9ImJ0biBidG4tcHJpbWFyeSI+CiAgICAgICAgICAgICAgICAgICAgTG9hZCBNb3JlLi4uCiAgICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgICAgc3VwZXIocHJvcHMpOwogICAgICAgIAogICAgICAgIHRoaXMK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRW1wbG95ZWUgRGV0YWlsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG51bWJlclJlY29yZHMpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgUEVSX1BBR0UgPSAyMDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGhhbmRsZUJ1dHRvbkNsaWNrKCkgewogICAgICAgIE1ldGVvci5zdWJzY3JpYmUoJ2VtcGxveWVlcycsIDQwKTsKICAgICAgICB0aGlzLnBhZ2UgKz0gMTsKICAgIH0KCiAgICByZW5kZXIoKSB7Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">e3RoaXMuaGFuZGxlQnV0dG9uQ2xpY2suYmluZCh0aGlzKX0gY2xhc3NOYW1lPSJidG4gYnRuLXByaW1hcnkiPgogICAgICAgICAgICAgICAgICAgIExvYWQgTW9yZS4uLgogICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICkKICAgIH0KfTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRW1wbG95ZWUgTGlzdAo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGxNb3VudCgpIHsKICAgICAgICB0aGlzLnBhZ2UgPSAyOwogICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFNldCB1cCBzdWJzY3JpcHRpb24K</text>
+        <text encoding="base64">ICAgIC8vIE5lZWQgc3RhdGUgc28gd2UgY2FuIGtlZXAgdHJhY2sgb2YgdGhlICMgb2YgZW1wbG95ZWUgcmVjb3JkcyBzZW50Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>40</text>
       </register>
     </registers>
     <search>
@@ -183,6 +186,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
