@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="RECENT_FILES_LIMIT" value="10" />
     <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="SHOW_ICONS_IN_MENUS" value="false" />
