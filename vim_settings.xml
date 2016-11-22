@@ -8,6 +8,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/.meteor/packages" timestamp="1479784858724">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1479774463902">
         <mark key="[" line="0" column="0" />
       </file>
@@ -66,6 +71,12 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/server/main.js" timestamp="1479785045039">
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="30" column="45" />
+        <mark key="^" line="30" column="45" />
+        <mark key="." line="30" column="45" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/components/image_detail.js" timestamp="1479774248001">
         <mark key="[" line="29" column="49" />
         <mark key="]" line="29" column="77" />
@@ -98,31 +109,31 @@
         <text encoding="base64">ICAgIGNvbnN0IHVwc1BlcmNlbnQgPSBgJHsxMDAgKiAodXBzIC8gKHVwcyArIGRvd25zKSl9JWA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PkhlbGxvIHRoZXJlITwvZGl2Pgo=</text>
+        <text encoding="base64">YXV0b3B1Ymxpc2ggICAgICAgICAgICAgIyBQdWJsaXNoIGFsbCBkYXRhIHRvIHRoZSBjbGllbnRzIChmb3IgcHJvdG90eXBpbmcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHdlIGNvdWxkIGFsc28gd3JpdGUgYXMgJ25hbWUsIGVtYWlsLCBwaG9uZScgc2luY2UgYWxsCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PkhlbGxvIHRoZXJlITwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHdlIGNvdWxkIGFsc28gd3JpdGUgYXMgJ25hbWUsIGVtYWlsLCBwaG9uZScgc2luY2UgYWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEZha2VyIGZyb20gJ2Zha2VyJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IEVtcGxveWVlczsK</text>
+        <text encoding="base64">aW1wb3J0IEZha2VyIGZyb20gJ2Zha2VyJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmVha1ByZXZpb3VzCg==</text>
+        <text encoding="base64">ZXhwb3J0IEVtcGxveWVlczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGVzdCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">bmVha1ByZXZpb3VzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIEFkZCBSZWFjdCByZW5kZXIgY2FsbCBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGVzdCI+PC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIC8vIEFkZCBSZWFjdCByZW5kZXIgY2FsbCBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
         <text>className=&quot;employee-list&quot;</text>
