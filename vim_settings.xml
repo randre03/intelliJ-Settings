@@ -3,19 +3,92 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/main.html" timestamp="1479697959137">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/.meteor/packages" timestamp="1479787854058">
         <mark key="[" line="19" column="84" />
         <mark key="]" line="20" column="19" />
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1479827313438">
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/main.js" timestamp="1479755247125">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="33" column="99" />
+        <mark key="^" line="33" column="99" />
+        <mark key="." line="33" column="99" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/.gitignore" timestamp="1479777584626">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/style/main.css" timestamp="1479700929512">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/client/component/Header.js" timestamp="1479831121110">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="10" column="56" />
+        <mark key="." line="10" column="56" />
+        <mark key="^" line="10" column="56" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/client/main.js" timestamp="1479837283700">
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/components/image_score.js" timestamp="1479774350045">
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+        <mark key="^" line="28" column="25" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/main.js" timestamp="1479783606418">
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+        <mark key="^" line="6" column="51" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/imports/collections/links.js" timestamp="1479835909860">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="30" />
+        <mark key="." line="19" column="30" />
+        <mark key="^" line="19" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/client/component/LinkCreate.js" timestamp="1479835685071">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="24" column="42" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/.meteor/packages" timestamp="1479835953584">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/components/image_detail.js" timestamp="1479774248001">
+        <mark key="[" line="29" column="49" />
+        <mark key="]" line="29" column="77" />
+        <mark key="." line="29" column="77" />
+        <mark key="^" line="29" column="77" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/.meteor/packages" timestamp="1479700590379">
+        <mark key="[" line="20" column="76" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="22" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1479839600268">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/.gitignore" timestamp="1479839044520">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/server/main,js.js" timestamp="1479781194387">
         <mark key="[" line="5" column="30" />
@@ -29,23 +102,11 @@
         <mark key="^" line="15" column="20" />
         <mark key="." line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/main.js" timestamp="1479755247125">
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="33" column="99" />
-        <mark key="^" line="33" column="99" />
-        <mark key="." line="33" column="99" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/imports/collections/employees.js" timestamp="1479781558780">
         <mark key="[" line="8" column="35" />
         <mark key="]" line="8" column="36" />
         <mark key="^" line="7" column="104" />
         <mark key="." line="8" column="36" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/.gitignore" timestamp="1479777584626">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/employees/client/component/employee_list.js" timestamp="1479783257756">
         <mark key="[" line="9" column="49" />
@@ -60,30 +121,12 @@
         <mark key="." line="19" column="63" />
         <mark key="^" line="19" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/name.html" timestamp="1479775688170">
-        <mark key="'" line="2" column="16" />
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="8" column="6" />
-        <mark key="." line="8" column="6" />
-        <mark key="^" line="8" column="6" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/style/main.css" timestamp="1479700929512">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/components/image_score.js" timestamp="1479774350045">
-        <mark key="[" line="26" column="2" />
-        <mark key="]" line="28" column="25" />
-        <mark key="." line="28" column="25" />
-        <mark key="^" line="28" column="25" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/main.js" timestamp="1479783606418">
-        <mark key="[" line="6" column="52" />
-        <mark key="]" line="6" column="51" />
-        <mark key="." line="6" column="51" />
-        <mark key="^" line="6" column="51" />
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/server/main.js" timestamp="1479839582468">
+        <mark key="'" line="7" column="106" />
+        <mark key="[" line="30" column="98" />
+        <mark key="]" line="31" column="82" />
+        <mark key="^" line="31" column="82" />
+        <mark key="." line="31" column="82" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/server/main.js" timestamp="1479788993916">
         <mark key="[" line="30" column="88" />
@@ -91,11 +134,11 @@
         <mark key="^" line="30" column="135" />
         <mark key="." line="30" column="135" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/components/image_detail.js" timestamp="1479774248001">
-        <mark key="[" line="29" column="49" />
-        <mark key="]" line="29" column="77" />
-        <mark key="." line="29" column="77" />
-        <mark key="^" line="29" column="77" />
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/client/component/LinkList.js" timestamp="1479837326439">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/style/style.css" timestamp="1479788408424">
         <mark key="[" line="4" column="34" />
@@ -109,17 +152,6 @@
         <mark key="^" line="16" column="37" />
         <mark key="." line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/.meteor/packages" timestamp="1479700590379">
-        <mark key="[" line="20" column="76" />
-        <mark key="]" line="22" column="19" />
-        <mark key="^" line="22" column="19" />
-        <mark key="." line="22" column="19" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/main.html" timestamp="1479776595774">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/components/employee_list.js" timestamp="1479790186162">
         <mark key="'" line="29" column="36" />
         <mark key="[" line="30" column="80" />
@@ -127,47 +159,53 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="19" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/client/main.html" timestamp="1479830406387">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="4" column="16" filename="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/name.html" />
       <jump line="20" column="3" filename="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/components/employee_list.js" />
       <jump line="29" column="36" filename="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/components/employee_list.js" />
       <jump line="19" column="63" filename="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/components/EmployeeList.js" />
+      <jump line="7" column="106" filename="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/server/main.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3NOYW1lPSJsaXN0LWdyb3VwLWl0ZW0iPjwvbGk+Cg==</text>
+        <text encoding="base64">PGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+U2hvcnRlbk15TGluazwvdGl0bGU+CjwvaGVhZD4KCjxib2R5PgogICAgPGRpdiBjbGFzcz0icmVuZGVyLXRhcmdldCI+PC9kaXY+CjwvYm9keT4K</text>
       </register>
-      <register name="1" type="4">
-        <text>PER_PAGE);
-    //</text>
+      <register name="1" type="2">
+        <text encoding="base64">Lm1ldGVvci8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gb25DbGljaz17KCkgPT4gTWV0ZW9yLnN1YnNjcmliZSgnZW1wbG95ZWVzJywgNDApfSBjbGFzc05hbWU9ImJ0biBidG4tcHJpbWFyeSI+CiAgICAgICAgICAgICAgICAgICAgTG9hZCBNb3JlLi4uCiAgICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
+        <text encoding="base64">Lm1ldGVvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U2hvcnRlbi1saW5rIGZ1bmN0aW9uYWxpdHkgd29ya2luZyBhbmQgZGlzcGxheWluZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgUEVSX1BBR0UgPSAyMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIGlmIGZpbmQgYSBsaW5rLCByZWRpcmVjdCB1c2VyIHRvIHRoZSBsb25nIFVSTAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZUJ1dHRvbkNsaWNrKCkgewogICAgICAgIE1ldGVvci5zdWJzY3JpYmUoJ2VtcGxveWVlcycsIDQwKTsKICAgICAgICB0aGlzLnBhZ2UgKz0gMTsKICAgIH0KCiAgICByZW5kZXIoKSB7Cg==</text>
+        <text encoding="base64">ICAgIC8vIElmIG5vIGxpbmsgZm91bmQsIHNlbmQgdXNlciB0byBub3JtYWwgcmVhY3QgYXBwCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">e3RoaXMuaGFuZGxlQnV0dG9uQ2xpY2suYmluZCh0aGlzKX0gY2xhc3NOYW1lPSJidG4gYnRuLXByaW1hcnkiPgogICAgICAgICAgICAgICAgICAgIExvYWQgTW9yZS4uLgogICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICkKICAgIH0KfTsK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgICAgIDwvdHI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGxNb3VudCgpIHsKICAgICAgICB0aGlzLnBhZ2UgPSAyOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InBsYWNlaG9sZGVyIj5MaXN0IG9mIExpbmtzIHRvIGNsaWNrPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIE5lZWQgc3RhdGUgc28gd2UgY2FuIGtlZXAgdHJhY2sgb2YgdGhlICMgb2YgZW1wbG95ZWUgcmVjb3JkcyBzZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>40</text>
+        <text>a</text>
       </register>
     </registers>
     <search>
