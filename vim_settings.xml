@@ -1,0 +1,150 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/main.html" timestamp="1479697959137">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1479774463902">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/server/main,js.js" timestamp="1479781194387">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/main.js" timestamp="1479755247125">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="33" column="99" />
+        <mark key="^" line="33" column="99" />
+        <mark key="." line="33" column="99" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/imports/collections/employees.js" timestamp="1479781558780">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="7" column="104" />
+        <mark key="." line="8" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/.gitignore" timestamp="1479777584626">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/employees/client/component/employee_list.js" timestamp="1479783257756">
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/name.html" timestamp="1479775688170">
+        <mark key="'" line="2" column="16" />
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/style/main.css" timestamp="1479700929512">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/components/image_score.js" timestamp="1479774350045">
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+        <mark key="^" line="28" column="25" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/main.js" timestamp="1479783606418">
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+        <mark key="^" line="6" column="51" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/components/image_detail.js" timestamp="1479774248001">
+        <mark key="[" line="29" column="49" />
+        <mark key="]" line="29" column="77" />
+        <mark key="." line="29" column="77" />
+        <mark key="^" line="29" column="77" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/components/image_list.js" timestamp="1479774322585">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="37" />
+        <mark key="." line="16" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/.meteor/packages" timestamp="1479700590379">
+        <mark key="[" line="20" column="76" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="22" column="19" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/main.html" timestamp="1479776595774">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="16" filename="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/name.html" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHVwc1BlcmNlbnQgPSBgJHsxMDAgKiAodXBzIC8gKHVwcyArIGRvd25zKSl9JWA7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2PkhlbGxvIHRoZXJlITwvZGl2Pgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHdlIGNvdWxkIGFsc28gd3JpdGUgYXMgJ25hbWUsIGVtYWlsLCBwaG9uZScgc2luY2UgYWxsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IEZha2VyIGZyb20gJ2Zha2VyJzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IEVtcGxveWVlczsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bmVha1ByZXZpb3VzCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGVzdCI+PC9kaXY+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIEFkZCBSZWFjdCByZW5kZXIgY2FsbCBoZXJlCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>className=&quot;employee-list&quot;</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
