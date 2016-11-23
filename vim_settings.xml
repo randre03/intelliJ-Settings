@@ -27,12 +27,12 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/bins/BinsEditor.js" timestamp="1479930003410">
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/bins/BinsEditor.js" timestamp="1479931499964">
         <mark key="e" line="20" column="25" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="6" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/Accounts.js" timestamp="1479915539303">
         <mark key="'" line="18" column="31" />
@@ -118,6 +118,12 @@
         <mark key="]" line="6" column="38" />
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/styles/styles.less" timestamp="1479931944591">
+        <mark key="[" line="62" column="72" />
+        <mark key="]" line="62" column="65" />
+        <mark key="^" line="62" column="65" />
+        <mark key="." line="62" column="65" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/main.html" timestamp="1479914182638">
         <mark key="^" line="6" column="3" />
@@ -284,7 +290,7 @@
         <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>R</text>
       </register>
     </registers>
     <search>
