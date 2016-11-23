@@ -1,10 +1,10 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-      <template name="React class.js" reformat="true" live-template-enabled="true" />
-      <template name="React const.js" reformat="true" live-template-enabled="true" />
-      <template name="React main.html.js" reformat="true" live-template-enabled="true" />
-      <template name="React main.js.js" reformat="true" live-template-enabled="true" />
+      <template name="React class.js" reformat="false" live-template-enabled="true" />
+      <template name="React const.js" reformat="false" live-template-enabled="true" />
+      <template name="React main.html.html" reformat="false" live-template-enabled="true" />
+      <template name="React main.js.js" reformat="false" live-template-enabled="true" />
     </default_templates>
   </component>
 </application>
