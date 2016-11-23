@@ -9,11 +9,11 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/bins/BinsList.js" timestamp="1479919325910">
-        <mark key="[" line="22" column="66" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="11" column="36" />
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/bins/BinsList.js" timestamp="1479927331620">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="20" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/main.js" timestamp="1479755247125">
         <mark key="[" line="32" column="17" />
@@ -26,6 +26,13 @@
         <mark key="]" line="2" column="4" />
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/bins/BinsEditor.js" timestamp="1479930003410">
+        <mark key="e" line="20" column="25" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="6" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/Accounts.js" timestamp="1479915539303">
         <mark key="'" line="18" column="31" />
@@ -100,27 +107,27 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/.meteor/packages" timestamp="1479917711774">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="22" column="19" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/.meteor/packages" timestamp="1479929843681">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/main.js" timestamp="1479919668307">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="13" column="47" />
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/main.js" timestamp="1479926999599">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="38" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/main.html" timestamp="1479914182638">
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/Header.js" timestamp="1479917501096">
-        <mark key="'" line="22" column="30" />
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
-        <mark key="^" line="6" column="8" />
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/Header.js" timestamp="1479927897822">
+        <mark key="'" line="28" column="30" />
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="11" column="80" />
+        <mark key="." line="11" column="80" />
+        <mark key="^" line="11" column="80" />
       </file>
       <file name="/Dummy.txt" timestamp="1479839600268">
         <mark key="[" line="0" column="0" />
@@ -168,6 +175,13 @@
         <mark key="." line="6" column="84" />
         <mark key="^" line="6" column="84" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/bins/BinsMain.js" timestamp="1479928715892">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="47" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/server/main.js" timestamp="1479839582468">
         <mark key="'" line="7" column="106" />
         <mark key="[" line="30" column="98" />
@@ -181,11 +195,11 @@
         <mark key="^" line="30" column="135" />
         <mark key="." line="30" column="135" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/App.js" timestamp="1479918442703">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="38" />
-        <mark key="^" line="2" column="38" />
-        <mark key="." line="2" column="38" />
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/App.js" timestamp="1479926419715">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="7" column="52" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/client/component/LinkList.js" timestamp="1479837326439">
         <mark key="[" line="16" column="19" />
@@ -233,43 +247,44 @@
       <jump line="7" column="106" filename="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/server/main.js" />
       <jump line="18" column="31" filename="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/Accounts.js" />
       <jump line="17" column="30" filename="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/Header.js" />
+      <jump line="6" column="8" filename="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/bins/BinsMain.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">PGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+U2hvcnRlbk15TGluazwvdGl0bGU+CjwvaGVhZD4KCjxib2R5PgogICAgPGRpdiBjbGFzcz0icmVuZGVyLXRhcmdldCI+PC9kaXY+CjwvYm9keT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlbW92ZQo=</text>
+        <text encoding="base64">ciB1cGRhdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icGxhY2Vob2xkZXIiPgogICAgICAgICAgICAgICAKICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgPGg1PklucHV0PC9oNT48L2g1PjwvaDU+PC9oNT48L2g1Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuYmlucyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgPGg1PklucHV0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJpbnMgTGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgPGg1PklucHV0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQmluc0xpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgPGg1PklucHV0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXV0b3B1Ymxpc2ggICAgICAgICAgICAgIyBQdWJsaXNoIGFsbCBkYXRhIHRvIHRoZSBjbGllbnRzIChmb3IgcHJvdG90eXBpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxDb2RlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJpbnMgRWRpdG9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5zZWN1cmUgICAgICAgICAgICAgICAgIyBBbGxvdyBhbGwgREIgd3JpdGVzIGZyb20gY2xpZW50cyAoZm9yIHByb3RvdHlwaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBMYWNlaG9sZGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>@</text>
       </register>
     </registers>
     <search>
@@ -293,6 +308,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
