@@ -9,11 +9,11 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/bins/BinsList.js" timestamp="1479927331620">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="34" />
-        <mark key="^" line="20" column="32" />
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/bins/BinsList.js" timestamp="1479958342077">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="22" column="76" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/main.js" timestamp="1479755247125">
         <mark key="[" line="32" column="17" />
@@ -46,6 +46,12 @@
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/styles/main.css" timestamp="1479958957104">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/client/component/Header.js" timestamp="1479867124413">
         <mark key="[" line="16" column="22" />
@@ -260,13 +266,13 @@
         <text encoding="base64">PGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+U2hvcnRlbk15TGluazwvdGl0bGU+CjwvaGVhZD4KCjxib2R5PgogICAgPGRpdiBjbGFzcz0icmVuZGVyLXRhcmdldCI+PC9kaXY+CjwvYm9keT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ciB1cGRhdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJidG4gYnRuLWRhbmdlciIKICAgICAgICAgICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIFgKICAgICAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPGg1PklucHV0PC9oNT48L2g1PjwvaDU+PC9oNT48L2g1Pgo=</text>
+        <text encoding="base64">ciB1cGRhdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPGg1PklucHV0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgPGg1PklucHV0PC9oNT48L2g1PjwvaDU+PC9oNT48L2g1Pgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgPGg1PklucHV0Cg==</text>
@@ -275,22 +281,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgPGg1PklucHV0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxDb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgPGg1PklucHV0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJpbnMgRWRpdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxDb2RlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJpbnMgRWRpdG9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBMYWNlaG9sZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text encoding="base64">b25DbGljaz17KCkgPT4gdGhpcy5vbkJpblJlbW92ZShiaW4pfQ==</text>
       </register>
     </registers>
     <search>
