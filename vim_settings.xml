@@ -15,10 +15,10 @@
         <mark key="." line="41" column="3" />
         <mark key="^" line="41" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/components/Accounts.js" timestamp="1480194118768">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/components/Accounts.js" timestamp="1480196273807">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/.gitignore" timestamp="1479777584626">
         <mark key="[" line="0" column="13" />
@@ -164,6 +164,17 @@
         <mark key="^" line="18" column="47" />
         <mark key="." line="15" column="35" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/styles/main.css" timestamp="1480195401721">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/server/Accounts.js" timestamp="1480196464573">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/style/main.css" timestamp="1479700929512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
@@ -254,12 +265,12 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/.meteor/packages" timestamp="1480192050063">
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/.meteor/packages" timestamp="1480196376965">
         <mark key="'" line="8" column="31" />
-        <mark key="[" line="28" column="2" />
-        <mark key="]" line="28" column="3" />
-        <mark key="^" line="30" column="11" />
-        <mark key="." line="28" column="3" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+        <mark key="^" line="28" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/server/kadira.js" timestamp="1480193641698">
         <mark key="[" line="2" column="3" />
@@ -344,34 +355,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">IyBERVYgVE9PTFMKbWV0ZW9ydG95czphbGx0aGluZ3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiBvbkNsaWNrPXt0aGlzLm9uQmluQ2xpY2suYmluZCh0aGlzKX0+Q3JlYXRlIEJpbjwvYT4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9uQmluQ2xpY2soZSkgewogICAgICAgIC8vIFdlIGRvbid0IHdhbnQgdGhlIGNsaWNrIGV2ZW50IHRvIGFjdCAibm9ybWFsbHkiIGFuZCB0cmF2ZWwgdG8gdGhlIGxpbmsKICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgLy8gV2hlbiB1c2VyIGNsaWNrcyB0aGUgIkNyZWF0ZSBCaW4iIGxpbmssIHdlIHRha2UgdGhlIG5ld2x5IGNyZWF0ZWQgYmluSWQKICAgICAgICAvLyBBbmQgdXNlIHRoYXQgdG8gY29uc3RydWN0IHRoZSBSb3V0ZSB0aGUgY2xpY2sgc2hvdWxkIGZvbGxvdwogICAgICAgIE1ldGVvci5jYWxsKCdiaW5zLmluc2VydCcsIChlcnJvciwgYmluSWQpID0+IHsKICAgICAgICAgICAgYnJvd3Nlckhpc3RvcnkucHVzaCgiL2JpbnMvIiArIGJpbklkKTsKICAgICAgICB9KTsKICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">YWNjb3VudHMtYmFzZQphbGRlZWQ6c2ltcGxlLXNjaGVtYQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQWNjb3VudHMgfSBmcm9tICdtZXRlb3IvYWNjb3VudHMtYmFzZSc7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>Accounts.ui.config({
+    passwordSignupFields: 'USERNAME_AND_EMAIL'
+});</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RQZXJtaXNzaW9uczogewogICAgICAgIGZhY2Vib29rOiBbJ3VzZXJfbGlrZXMnXSwKICAgIH0sCiAgICByZXF1ZXN0T2ZmbGluZVRva2VuOiB7CiAgICAgICAgZ29vZ2xlOiB0cnVlCiAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgQXBwID0gKCkgPT4gewogICAgcmV0dXJuICgKICAgICAgICA8aDE+SGVsbG8gdGhlcmUhIFRoaXMgaXMgbXkgQXBwLjwvaDE+CiAgICApOwp9Owo=</text>
+        <text encoding="base64">ICAgICAgICBnaXRodWI6IFsndXNlcicsICdyZXBvJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgICA8SGVhZGVyIC8+CiAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>i</text>
       </register>
     </registers>
     <search>
