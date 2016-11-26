@@ -169,11 +169,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/server/Accounts.js" timestamp="1480196464573">
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="4" column="29" />
-        <mark key="^" line="4" column="29" />
-        <mark key="." line="4" column="29" />
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/server/Accounts.js" timestamp="1480196699982">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/style/main.css" timestamp="1479700929512">
         <mark key="[" line="0" column="0" />
@@ -265,12 +264,12 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/.meteor/packages" timestamp="1480196376965">
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/.meteor/packages" timestamp="1480196723747">
         <mark key="'" line="8" column="31" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="17" />
-        <mark key="." line="28" column="17" />
-        <mark key="^" line="28" column="17" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="27" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/server/kadira.js" timestamp="1480193641698">
         <mark key="[" line="2" column="3" />
@@ -352,39 +351,39 @@
         <text encoding="base64">ICAgICAgICAgICAgey8qIC9iaW5zIGlzIGEgY2hpbGQgcm91dGUgKHNpbmNlIG5lc3RlZCkgd2hpY2ggZ2V0cyBwYXNzZWQgdmlhIHByb3BzLmNoaWxkcmVuIChzZWUgQXBwLmpzKSovfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXV0b3B1Ymxpc2hAMS4wLjcgICAgICAgICAgICAgIyBQdWJsaXNoIGFsbCBkYXRhIHRvIHRoZSBjbGllbnRzIChmb3IgcHJvdG90eXBpbmcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBERVYgVE9PTFMKbWV0ZW9ydG95czphbGx0aGluZ3MK</text>
+        <text encoding="base64">aW1wb3J0IFNpbXBsZVNjaGVtYSBmcm9tICdzaW1wbGUtc2NoZW1hJzsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWNjb3VudHMtYmFzZQphbGRlZWQ6c2ltcGxlLXNjaGVtYQo=</text>
+        <text encoding="base64">IyBERVYgVE9PTFMKbWV0ZW9ydG95czphbGx0aGluZ3MK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YWNjb3VudHMtYmFzZQphbGRlZWQ6c2ltcGxlLXNjaGVtYQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWNjb3VudHMgfSBmcm9tICdtZXRlb3IvYWNjb3VudHMtYmFzZSc7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>Accounts.ui.config({
     passwordSignupFields: 'USERNAME_AND_EMAIL'
 });</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RQZXJtaXNzaW9uczogewogICAgICAgIGZhY2Vib29rOiBbJ3VzZXJfbGlrZXMnXSwKICAgIH0sCiAgICByZXF1ZXN0T2ZmbGluZVRva2VuOiB7CiAgICAgICAgZ29vZ2xlOiB0cnVlCiAgICB9LAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnaXRodWI6IFsndXNlcicsICdyZXBvJ10K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RQZXJtaXNzaW9uczogewogICAgICAgIGZhY2Vib29rOiBbJ3VzZXJfbGlrZXMnXSwKICAgIH0sCiAgICByZXF1ZXN0T2ZmbGluZVRva2VuOiB7CiAgICAgICAgZ29vZ2xlOiB0cnVlCiAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
