@@ -264,12 +264,12 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/.meteor/packages" timestamp="1480196723747">
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/.meteor/packages" timestamp="1480198379243">
         <mark key="'" line="8" column="31" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="27" column="17" />
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="37" column="5" />
+        <mark key="." line="37" column="5" />
+        <mark key="^" line="37" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/server/kadira.js" timestamp="1480193641698">
         <mark key="[" line="2" column="3" />
