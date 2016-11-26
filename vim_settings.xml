@@ -48,10 +48,11 @@
         <mark key="^" line="11" column="63" />
         <mark key="." line="11" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/Main.js" timestamp="1480194149323">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="18" />
-        <mark key="." line="13" column="17" />
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/Main.js" timestamp="1480200539476">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="11" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/components/image_score.js" timestamp="1479774350045">
         <mark key="[" line="26" column="2" />
@@ -83,6 +84,12 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="15" column="61" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/server/methods/Signup.js" timestamp="1480201461943">
+        <mark key="[" line="57" column="12" />
+        <mark key="]" line="57" column="16" />
+        <mark key="." line="57" column="16" />
+        <mark key="^" line="57" column="16" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/bins/BinsShare.js" timestamp="1480006359396">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="15" column="73" />
@@ -107,6 +114,12 @@
         <mark key="]" line="5" column="36" />
         <mark key="^" line="5" column="36" />
         <mark key="." line="5" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/components/signup/CreditCard.js" timestamp="1480200952152">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/components/EmployeeList.js" timestamp="1479827981391">
         <mark key="'" line="19" column="63" />
@@ -133,11 +146,22 @@
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/server/methods/Stripe.js" timestamp="1480201415666">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="8" />
+        <mark key="^" line="28" column="8" />
+        <mark key="." line="28" column="8" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/client/main.html" timestamp="1479830406387">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="6" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/components/signup/SelectPlan.js" timestamp="1480200853004">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/.gitignore" timestamp="1480004767842">
         <mark key="[" line="2" column="0" />
@@ -156,13 +180,6 @@
         <mark key="]" line="33" column="99" />
         <mark key="^" line="33" column="99" />
         <mark key="." line="33" column="99" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/bins/BinsEditor.js" timestamp="1480007324753">
-        <mark key="e" line="26" column="25" />
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="35" />
-        <mark key="^" line="18" column="47" />
-        <mark key="." line="15" column="35" />
       </file>
       <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/styles/main.css" timestamp="1480195401721">
         <mark key="[" line="3" column="0" />
@@ -207,6 +224,12 @@
       <file name="/JavaScript Console" timestamp="1480191644639">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/helpers/Stripe.js" timestamp="1480200061541">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="21" column="5" />
+        <mark key="." line="21" column="5" />
+        <mark key="^" line="21" column="5" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/.meteor/packages" timestamp="1479835953584">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -218,6 +241,12 @@
         <mark key="]" line="29" column="77" />
         <mark key="." line="29" column="77" />
         <mark key="^" line="29" column="77" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/components/Signup.js" timestamp="1480200613340">
+        <mark key="[" line="38" column="59" />
+        <mark key="]" line="38" column="59" />
+        <mark key="^" line="38" column="59" />
+        <mark key="." line="38" column="59" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/.meteor/packages" timestamp="1479700590379">
         <mark key="[" line="20" column="76" />
@@ -277,6 +306,11 @@
         <mark key="^" line="3" column="75" />
         <mark key="." line="3" column="75" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/components/Signup.html" timestamp="1480200216118">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/client/components/bins/BinsMain.js" timestamp="1480007164848">
         <mark key="'" line="6" column="8" />
         <mark key="[" line="29" column="0" />
@@ -315,6 +349,12 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/settings.json" timestamp="1480199816747">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/images/client/components/image_list.js" timestamp="1479774322585">
         <mark key="[" line="16" column="10" />
         <mark key="]" line="16" column="11" />
@@ -351,39 +391,37 @@
         <text encoding="base64">ICAgICAgICAgICAgey8qIC9iaW5zIGlzIGEgY2hpbGQgcm91dGUgKHNpbmNlIG5lc3RlZCkgd2hpY2ggZ2V0cyBwYXNzZWQgdmlhIHByb3BzLmNoaWxkcmVuIChzZWUgQXBwLmpzKSovfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXV0b3B1Ymxpc2hAMS4wLjcgICAgICAgICAgICAgIyBQdWJsaXNoIGFsbCBkYXRhIHRvIHRoZSBjbGllbnRzIChmb3IgcHJvdG90eXBpbmcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFNpbXBsZVNjaGVtYSBmcm9tICdzaW1wbGUtc2NoZW1hJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gT3VyIG5leHQgc3RlcCB3aWxsIHRha2UgcGxhY2UgaW4gaGVyZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gT3VyIG5leHQgc3RlcCB3aWxsIHRha2UgcGxhY2UgaW4gaGVyZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBERVYgVE9PTFMKbWV0ZW9ydG95czphbGx0aGluZ3MK</text>
+        <text encoding="base64">ICAgICAgIDxkaXYgY2xhc3NOYW1lPSIiPgogICAgICAgIAogICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWNjb3VudHMtYmFzZQphbGRlZWQ6c2ltcGxlLXNjaGVtYQo=</text>
+        <text encoding="base64">ICAgICAgIDxkaXYgY2xhc3NOYW1lPSIiPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWNjb3VudHMgfSBmcm9tICdtZXRlb3IvYWNjb3VudHMtYmFzZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gZW5kIC5mb3JtLWdyb3VwIC0tPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>Accounts.ui.config({
-    passwordSignupFields: 'USERNAME_AND_EMAIL'
-});</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gZW5kIC5mb3JtLWdyb3VwIC0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RQZXJtaXNzaW9uczogewogICAgICAgIGZhY2Vib29rOiBbJ3VzZXJfbGlrZXMnXSwKICAgIH0sCiAgICByZXF1ZXN0T2ZmbGluZVRva2VuOiB7CiAgICAgICAgZ29vZ2xlOiB0cnVlCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gZW5kIC5mb3JtLWdyb3VwIC0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>var</text>
       </register>
     </registers>
     <search>
