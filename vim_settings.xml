@@ -115,11 +115,11 @@
         <mark key="^" line="5" column="36" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/components/signup/CreditCard.js" timestamp="1480200952152">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="8" column="21" />
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/components/signup/CreditCard.js" timestamp="1480269330588">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="3" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="35" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/employees/client/components/EmployeeList.js" timestamp="1479827981391">
         <mark key="'" line="19" column="63" />
@@ -128,6 +128,7 @@
         <mark key="." line="19" column="63" />
         <mark key="^" line="19" column="63" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/components/signup/Signup.js" timestamp="1480268827830" />
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/server/main.js" timestamp="1480006761213">
         <mark key="[" line="19" column="10" />
         <mark key="]" line="19" column="10" />
@@ -146,7 +147,7 @@
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/server/methods/Stripe.js" timestamp="1480201415666">
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/server/methods/Stripe.js" timestamp="1480269784873">
         <mark key="[" line="28" column="4" />
         <mark key="]" line="28" column="8" />
         <mark key="^" line="28" column="8" />
@@ -158,10 +159,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/components/signup/SelectPlan.js" timestamp="1480200853004">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
+      <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/components/signup/SelectPlan.js" timestamp="1480269402093">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="68" />
+        <mark key="." line="12" column="68" />
+        <mark key="^" line="12" column="68" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/markbin/.gitignore" timestamp="1480004767842">
         <mark key="[" line="2" column="0" />
@@ -221,7 +223,7 @@
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="/JavaScript Console" timestamp="1480191644639">
+      <file name="/JavaScript Console" timestamp="1480268527864">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Work/ourcity/ourcity/client/helpers/Stripe.js" timestamp="1480200061541">
@@ -266,7 +268,7 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480197108714">
+      <file name="/Dummy.txt" timestamp="1480201516577">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/.gitignore" timestamp="1479839044520">
@@ -418,10 +420,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gZW5kIC5mb3JtLWdyb3VwIC0tPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>9</text>
+        <text>7:30</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -432,6 +434,12 @@
       <history-search />
       <history-cmd>
         <entry>9</entry>
+        <entry>31</entry>
+        <entry>20</entry>
+        <entry>7 30</entry>
+        <entry>7.30</entry>
+        <entry>7</entry>
+        <entry>7:30</entry>
       </history-cmd>
       <history-expr />
       <history-input />
