@@ -152,6 +152,11 @@
         <mark key="^" line="28" column="8" />
         <mark key="." line="28" column="8" />
       </file>
+      <file name="$USER_HOME$/Dropbox/dev/clojure/clojure-in-action-tdd/src/chapter_tdd/core.clj" timestamp="1504837224021">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Link to dev/meteor/shorten_my_link/client/main.html" timestamp="1479830406387">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="6" />
@@ -224,6 +229,11 @@
         <mark key="]" line="19" column="30" />
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/dev/clojure/clojure-in-action-tdd/project.clj" timestamp="1504837216394">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1480268527864">
         <mark key="[" line="0" column="0" />
@@ -425,7 +435,7 @@
         <text>7:30</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
     </registers>
     <search>
